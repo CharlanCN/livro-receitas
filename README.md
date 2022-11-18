@@ -1,6 +1,5 @@
-# Livro de receitas :shallow_pan_of_food:
+# Livro de receitas :man_cook:
 
 Olá, Bem vindo ao meu livro de receitas :hand:
 
 - Cookies :cookie:
-- 
